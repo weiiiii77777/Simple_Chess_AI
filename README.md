@@ -1,4 +1,4 @@
-# AI-Project
+# Simple_Chess_AI
 
 chess.ipynb為西洋棋AI
 
